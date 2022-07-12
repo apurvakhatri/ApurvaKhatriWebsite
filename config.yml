@@ -1,4 +1,5 @@
-baseURL: "https://apurvakhatri.github.io/ApurvaKhatriWebsite"
+#baseURL: "https://apurvakhatri.github.io/ApurvaKhatriWebsite"
+baseURL: "http://apurvakhatri.com/"
 title: Apurva Khatri
 paginate: 5
 theme: PaperMod
