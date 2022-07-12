@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Apurva Khatri</title>
+    <link>https://apurvakhatri.github.io/ApurvaKhatriWebsite/</link>
+    <description>Recent content on Apurva Khatri</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://apurvakhatri.github.io/ApurvaKhatriWebsite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://apurvakhatri.github.io/ApurvaKhatriWebsite/about/</link>
+      <pubDate>Sat, 09 Jul 2022 03:59:26 +0530</pubDate>
+      
+      <guid>https://apurvakhatri.github.io/ApurvaKhatriWebsite/about/</guid>
+      <description>I am a Master&amp;rsquo;s in Computer Science Student at Northeastern University, Boston. I like computers and not just software, but all its aspects.
+I have two years of work experience as a software developer. Working in a finance company which is not purely tech driven, I migrated their technology setup to AWS cloud and created several APIs. In my daily work, I am also involved with creation and maintenance of current services for their better optimization and performance.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://apurvakhatri.github.io/ApurvaKhatriWebsite/sitemap.xml
