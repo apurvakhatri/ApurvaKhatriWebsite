@@ -4,7 +4,17 @@
     <title>Apurva Khatri</title>
     <link>http://apurvakhatri.com/</link>
     <description>Recent content on Apurva Khatri</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="http://apurvakhatri.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 09 Jul 2022 23:41:31 +0530</lastBuildDate><atom:link href="http://apurvakhatri.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building This Website</title>
+      <link>http://apurvakhatri.com/posts/buildingthiswebsite/</link>
+      <pubDate>Sat, 09 Jul 2022 23:41:31 +0530</pubDate>
+      
+      <guid>http://apurvakhatri.com/posts/buildingthiswebsite/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>About Me</title>
       <link>http://apurvakhatri.com/about/</link>

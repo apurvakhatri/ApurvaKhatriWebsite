@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://apurvakhatri.com/</loc>
+    <lastmod>2022-07-09T23:41:31+05:30</lastmod>
+  </url><url>
+    <loc>http://apurvakhatri.com/posts/buildingthiswebsite/</loc>
+    <lastmod>2022-07-09T23:41:31+05:30</lastmod>
+  </url><url>
+    <loc>http://apurvakhatri.com/posts/</loc>
+    <lastmod>2022-07-09T23:41:31+05:30</lastmod>
+  </url><url>
     <loc>http://apurvakhatri.com/about/</loc>
     <lastmod>2022-07-09T03:59:26+05:30</lastmod>
-  </url><url>
-    <loc>http://apurvakhatri.com/</loc>
   </url><url>
     <loc>http://apurvakhatri.com/categories/</loc>
   </url><url>

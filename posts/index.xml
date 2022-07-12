@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Apurva Khatri</title>
+    <link>http://apurvakhatri.com/posts/</link>
+    <description>Recent content in Posts on Apurva Khatri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 09 Jul 2022 23:41:31 +0530</lastBuildDate><atom:link href="http://apurvakhatri.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building This Website</title>
+      <link>http://apurvakhatri.com/posts/buildingthiswebsite/</link>
+      <pubDate>Sat, 09 Jul 2022 23:41:31 +0530</pubDate>
+      
+      <guid>http://apurvakhatri.com/posts/buildingthiswebsite/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
