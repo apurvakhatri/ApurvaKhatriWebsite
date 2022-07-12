@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://apurvakhatri.github.io/ApurvaKhatriWebsite/about/</loc>
+    <loc>http://apurvakhatri.com/about/</loc>
     <lastmod>2022-07-09T03:59:26+05:30</lastmod>
   </url><url>
-    <loc>https://apurvakhatri.github.io/ApurvaKhatriWebsite/</loc>
+    <loc>http://apurvakhatri.com/</loc>
   </url><url>
-    <loc>https://apurvakhatri.github.io/ApurvaKhatriWebsite/categories/</loc>
+    <loc>http://apurvakhatri.com/categories/</loc>
   </url><url>
-    <loc>https://apurvakhatri.github.io/ApurvaKhatriWebsite/tags/</loc>
+    <loc>http://apurvakhatri.com/tags/</loc>
   </url>
 </urlset>
