@@ -72,7 +72,7 @@ params:
     enabled: true # needs to be explicitly set
     title: "Hi, I'm Apurva Khatri \U0001F44B"
     subtitle: "Welcome to my metaverse!"
-    #imageUrl: "profile_image11111111111111"
+    imageUrl: "profile_image"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my imagex
