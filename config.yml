@@ -72,9 +72,9 @@ params:
     enabled: true # needs to be explicitly set
     title: "Hi, I'm Apurva Khatri \U0001F44B"
     subtitle: "Welcome to my metaverse!"
-    imageUrl: "profile_mode.jpg"
-    imageWidth: 150
-    imageHeight: 150
+    #imageUrl: "picture.jpg"
+    imageWidth: 175
+    imageHeight: 175
     imageTitle: my imagex
     #buttons:
      # - name: Posts
