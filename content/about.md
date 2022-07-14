@@ -5,13 +5,13 @@ draft: false
 ShowWordCount: false
 ShowReadingTime: false
 ---
-I am a Master's in Computer Science Student at **Northeastern** University, Boston. I like computers and not just software, but all its aspects. 
+Graduate computer science student at **Northeastern University, Boston.** I am open to **software developer internship** starting Summer 2023 in the **United states.**
 
-I have two years of work experience as a software developer. Working in a finance company which is not purely tech driven, I migrated their technology setup to **AWS cloud** and created several APIs. In my daily work, I am also involved with creation and maintenance of current services for their better optimization and performance. 
+Currently studying Program Design Paradigm [CS5010] and Database Management Systems [CS5200] along with daily dose of **[Leetcode](https://leetcode.com/apurvakhatri2011/).**
 
-I love sports and movies. 
+I hail from **Mumbai, India** where I have spent most of my time. Important years of my education were spent in different parts of India, which helped me grow sophisitcally as an individual. I like to stay at different places [Traveler as people would say], interact with diverse people and try every cuisine :) As much as I love food, I like sports and take pleasure in doing some sort of exercise in form of sports/gymanisum or anything to keep myself motivated. 
 
-Now since you're here, have a look at my **[Resume](https://drive.google.com/file/d/1NuaV_TZG-WZloDftnKl6ccddJ4VsY1vr/view?usp=sharing).**
+Now since you're here, have a look at my **[Resume](https://drive.google.com/file/d/1NuaV_TZG-WZloDftnKl6ccddJ4VsY1vr/view?usp=sharing).** 
 
 # Experience
 
