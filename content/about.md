@@ -11,7 +11,7 @@ Currently studying Program Design Paradigm [CS5010] and Database Management Syst
 
 I hail from **Mumbai, India** where I have spent most of my time. Important years of my education were spent in different parts of India, which helped me grow sophisitcally as an individual. I like to stay at different places [Traveler as people would say], interact with diverse people and try every cuisine :) As much as I love food, I like sports and take pleasure in doing some sort of exercise in form of sports/gymanisum or anything to keep myself motivated. 
 
-Now since you're here, have a look at my **[Resume]([https://drive.google.com/file/d/1NuaV_TZG-WZloDftnKl6ccddJ4VsY1vr/view?usp=sharing](https://drive.google.com/file/d/1KtB0pBjMJ5Uud3XoTd4KXVE0naD-QrKn/view?usp=share_link)).** 
+Now since you're here, have a look at my **[Resume](https://drive.google.com/file/d/1KtB0pBjMJ5Uud3XoTd4KXVE0naD-QrKn/view?usp=share_link).** 
 
 # Experience
 
