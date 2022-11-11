@@ -1,3 +1,9 @@
+---
+title: "Making decision to go right or left with Binary Search."
+date: 2022-11-11T23:41:31+05:30
+draft: false
+---
+
 # Making decision to go right or left with Binary Search. 
 
 
