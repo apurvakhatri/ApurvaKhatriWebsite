@@ -8,6 +8,7 @@ ShowReadingTime: false
 ---
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <DIV class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="apurva-khatri-33bb38146" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/apurva-khatri-33bb38146?trk=profile-badge"></a></DIV>
 
 
