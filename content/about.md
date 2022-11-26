@@ -1,4 +1,4 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 ---
 title: "About Me"
 date: 2022-07-09T03:59:26+05:30
@@ -6,6 +6,8 @@ draft: false
 ShowWordCount: false
 ShowReadingTime: false
 ---
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <DIV class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="apurva-khatri-33bb38146" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/apurva-khatri-33bb38146?trk=profile-badge">Apurva Khatri</a></DIV>
 Graduate computer science student at **Northeastern University, Boston.** I am open to **software developer internship** starting Summer 2023 in the **United states.**
