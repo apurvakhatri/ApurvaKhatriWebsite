@@ -16,7 +16,7 @@ minify:
   minifyOutput: true
 
 params:
-  #env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  env: production
   title: Apurva Khatri
   description: "Apurva Khatri's portfolio website"
   keywords: [Blog, Portfolio, PaperMod]
