@@ -124,6 +124,10 @@ menu:
       name: About
       url: /about/
       weight: 10
+    - identifier: Resume
+      name: Resume
+      url: /resume/
+      weight: 10
     - identifier: Posts
       name: Posts
       url: /posts/
