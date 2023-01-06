@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://apurvakhatri.com/sitemap.xml
+Sitemap: https://apurvakhatri.com/sitemap.xml
