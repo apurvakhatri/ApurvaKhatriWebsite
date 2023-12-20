@@ -43,15 +43,11 @@ params:
   showtoc: false
   tocopen: false
   socialIcons:
-      - name: twitter
-        url: "https://twitter.com/apurva_khatri"
-      - name: stackoverflow
-        url: "https://stackoverflow.com/users/9139489/apurva-khatri"
       - name: github
         url: "https://github.com/apurvakhatri"
       - name: linkedin
         url: "https://www.linkedin.com/in/apurva-khatri-33bb38146/"
-  
+
 
   assets:
     # disableHLJS: true # to disable highlight.js
@@ -72,23 +68,23 @@ params:
     enabled: true # needs to be explicitly set
     title: "Hi, I'm Apurva Khatri \U0001F44B"
     subtitle: "Welcome to my metaverse!"
-    #imageUrl: "picture.jpg"
-    imageWidth: 175
-    imageHeight: 175
+    imageUrl: "/AKV2.png"
+    imageWidth: 200
+    imageHeight: 210
     imageTitle: my imagex
     #buttons:
      # - name: Posts
      #   url: posts
      # - name: Tags
      #   url: tags
-    
+
 
   # home-info mode
   #homeInfoParams:
    # Title: "Hi, I'm Apurva Khatri \U0001F44B"
     #Content: Welcome to my metaverse!
 
-  
+
 
   analytics:
     google:
@@ -103,10 +99,10 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  #editPost:
+  #  URL: "https://github.com/<path_to_repo>/content"
+  #  Text: "Suggest Changes" # edit text
+  #  appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
@@ -132,7 +128,7 @@ menu:
       name: Posts
       url: /posts/
       weight: 20
-      
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
@@ -146,5 +142,5 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-    
-  
+
+
