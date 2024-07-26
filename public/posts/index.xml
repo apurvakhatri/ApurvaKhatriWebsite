@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Apurva Khatri</title>
+    <link>https://apurvakhatri.com/posts/</link>
+    <description>Recent content in Posts on Apurva Khatri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 11 Nov 2022 23:41:31 +0530</lastBuildDate><atom:link href="https://apurvakhatri.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Making decision to go right or left with Binary Search.</title>
+      <link>https://apurvakhatri.com/posts/makingrightleftdecision/</link>
+      <pubDate>Fri, 11 Nov 2022 23:41:31 +0530</pubDate>
+      
+      <guid>https://apurvakhatri.com/posts/makingrightleftdecision/</guid>
+      <description>Making decision to go right or left with Binary Search. This post will be discussing approaches to certain problems which strictly teaches binary search.
+I will not be presenting any solutions just discussing the approaches.
+Single Element in Sorted Array Description: You are given a sorted array consisting of only integers where every element appears exactly twice, except for one element which appears exactly once.
+Return the single element that appears only once.</description>
+    </item>
+    
+  </channel>
+</rss>

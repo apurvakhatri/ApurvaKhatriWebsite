@@ -1,64 +1,40 @@
 
 ---
 title: "About Me"
-date: 2022-07-09T03:59:26+05:30
 draft: false
 ShowWordCount: false
 ShowReadingTime: false
 ---
 
-<!--
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+## About Me
 
-<DIV class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="apurva-khatri-33bb38146" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/apurva-khatri-33bb38146?trk=profile-badge"></a></DIV>
+Hi, I'm Apurva Khatri (Ah-poor-vah Khuh-tree), currently pursuing a Master of Science in Computer Science at Northeastern University. With approximately three years of experience as a software developer, I specialize in designing and implementing robust solutions across various technologies and platforms.
 
--->
+### Professional Background
+I have 2.8 years of experience as a Software Developer at ICICI Lombard, a leading general insurance company in India. During my time there, I played a pivotal role in:
+- Designing and implementing CI/CD pipelines using Jenkins, Docker, Bitbucket, and AWS ECS.
+- Architecting centralized logging using the ELK stack to enhance infrastructure monitoring.
+- Building REST APIs in C# for .NET applications.
 
+### Education
+I hold a Master of Science in Computer Science from Northeastern University, where I have honed my skills in various programming languages and technologies.
 
-Graduate computer science student at **Northeastern University, Boston.** I am open to **software developer internship** starting Summer 2023 in the **United states.**
+### Skills and Expertise
+- **Languages & Databases:** C/C++, C#, Java, JavaScript, TypeScript, Python, Scala, MySQL, MongoDB
+- **Technologies:** MapReduce, .NET, RESTful APIs, Git, Linux, React, Django, Android Studio
+- **DevOps & CI/CD:** Docker, Jenkins, JFrog, Elasticsearch, Logstash, Kibana, AWS (ECS, S3, Bedrock)
 
-Currently studying Program Design Paradigm [CS5010] and Database Management Systems [CS5200] along with daily dose of **[Leetcode](https://leetcode.com/apurvakhatri2011/).**
+### Achievements
+Throughout my MS program, I've worked on several notable projects:
+- Developed a stock trading application in MVC architecture in Java, implementing design patterns like Command design, facade, and builder. Conducted unit testing and isolated testing of the controller.
+- Created a full-stack learning management portal to enhance course management and learning experiences, utilizing ReactJS, React Native, JavaScript, TypeScript, Hooks, NodeJS, and MongoDB.
+- Leveraged Amazon Bedrock to build an event-driven pipeline using AWS Lambda to process audio recordings of customer interactions, gaining experience in LLMs, GenAI, Serverless, and event-driven architecture.
 
-I hail from **Mumbai, India** where I have spent most of my time. Important years of my education were spent in different parts of India, which helped me grow sophisitcally as an individual. I like to stay at different places [Traveler as people would say], interact with diverse people and try every cuisine :) As much as I love food, I like sports and take pleasure in doing some sort of exercise in form of sports/gymanisum or anything to keep myself motivated.
+### Personal Interests
+Outside of work, I enjoy running and cooking. I'm passionate about sports, politics, psychology, and food, which keep me engaged and curious about the world around me.
 
-Now since you're here, have a look at my **[Resume](https://drive.google.com/file/d/1KtB0pBjMJ5Uud3XoTd4KXVE0naD-QrKn/view?usp=share_link).**
+### Future Goals
+- **Career Aspirations:** I aim to write a lot of code, work under great leadership, and contribute to building scalable and high-usage products, preferably in a hybrid working model.
+- **Personal Goals:** One of my personal milestones is to run a half marathon at the Boston Marathon in 2025.
 
-# Experience
-
-------------------------------------
-> ### [ICICI LOMBARD](https://icicilombard.com).
-###### Mumbai, India &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp 5th August'2020 - Present
-**Senior Developer**
-* **Migrated** technology setup **to** container powered **AWS Cloud.**
-* Built **continous integration and deployment pipeline** in **Jenkins.**
-* **Optimized** the efficient of deployment of **20+ microservices.**
-
-> ### [ICICI LOMBARD](https://icicilombard.com).
-###### Mumbai, India &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp 8th January'2020 - 7th July'2020
-**Technology Intern**
-* Designed and implemented **centralized logging** for the technology using **ELK stack.**
-* **Trained** a team of 10 support engineers to be **self-sufficient** in troubleshooting the logs.
-* Implemented **LDAP authentication** for security using Apache.
-
-
-> ### [YellowAnt](https://yellowant.com).
-###### Bangalore, India &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp May'2018 - June'2018
-**Software Engineering Intern**
-* Integrated **REST APIs** of Office 365, SurveyMonkey & Grafana for YellowAnt chatbot. This is used by Slack users to access personalized information from these **workplace applications.**
-* Worked towards **open sourcing** the applications by deploying them on Heroku and sourcing the code to GitHub.
-* Responsible for **documenting the technical content** of these applications & **organizing technical events** at the company.
-
-------------------------------------
-# Technical Skills
-   Frameworks: | DJANGO, Elasticsearch, Logstash, Kibana, HUGO
---------|------
-
-   Tools: | LINUX, GIT, APACHE HTTP SERVER, REST, OAuth
---------|------
-
-   DevOPS: | DOCKER, JENKINS, CI/CD, AWS ECS, EC2, ECR
---------|------
-
-   Languages: | C++, Python, Java, C#
---------|------
-
+Thank you for visiting my website! Feel free to connect with me on apurvakhatri2011@gmail.com for any inquiries or collaborations.
