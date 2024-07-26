@@ -6,5 +6,77 @@
     <description>Recent content in Tags on Apurva Khatri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://apurvakhatri.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amazon Bedrock</title>
+      <link>https://apurvakhatri.com/tags/amazon-bedrock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://apurvakhatri.com/tags/amazon-bedrock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automation</title>
+      <link>https://apurvakhatri.com/tags/automation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://apurvakhatri.com/tags/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AWS</title>
+      <link>https://apurvakhatri.com/tags/aws/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://apurvakhatri.com/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AWS Lambda</title>
+      <link>https://apurvakhatri.com/tags/aws-lambda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://apurvakhatri.com/tags/aws-lambda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event-Driven</title>
+      <link>https://apurvakhatri.com/tags/event-driven/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://apurvakhatri.com/tags/event-driven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LLM</title>
+      <link>https://apurvakhatri.com/tags/llm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://apurvakhatri.com/tags/llm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://apurvakhatri.com/tags/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://apurvakhatri.com/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serverless</title>
+      <link>https://apurvakhatri.com/tags/serverless/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://apurvakhatri.com/tags/serverless/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
