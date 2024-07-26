@@ -6,19 +6,7 @@
     <description>Recent content on Apurva Khatri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Nov 2022 23:41:31 +0530</lastBuildDate><atom:link href="https://apurvakhatri.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Making decision to go right or left with Binary Search.</title>
-      <link>https://apurvakhatri.com/posts/makingrightleftdecision/</link>
-      <pubDate>Fri, 11 Nov 2022 23:41:31 +0530</pubDate>
-      
-      <guid>https://apurvakhatri.com/posts/makingrightleftdecision/</guid>
-      <description>Making decision to go right or left with Binary Search. This post will be discussing approaches to certain problems which strictly teaches binary search.
-I will not be presenting any solutions just discussing the approaches.
-Single Element in Sorted Array Description: You are given a sorted array consisting of only integers where every element appears exactly twice, except for one element which appears exactly once.
-Return the single element that appears only once.</description>
-    </item>
-    
+    <lastBuildDate>Sat, 09 Jul 2022 23:41:31 +0530</lastBuildDate><atom:link href="https://apurvakhatri.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
       <link>https://apurvakhatri.com/about/</link>
@@ -27,6 +15,18 @@ Return the single element that appears only once.</description>
       <guid>https://apurvakhatri.com/about/</guid>
       <description>About Me Hi, I&amp;rsquo;m Apurva Khatri (Ah-poor-vah Khuh-tree), currently pursuing a Master of Science in Computer Science at Northeastern University. With approximately three years of experience as a software developer, I specialize in designing and implementing robust solutions across various technologies and platforms.
 Professional Background I have 2.8 years of experience as a Software Developer at ICICI Lombard, a leading general insurance company in India. During my time there, I played a pivotal role in:</description>
+    </item>
+    
+    <item>
+      <title>Making decision to go right or left with Binary Search.</title>
+      <link>https://apurvakhatri.com/posts/makingrightleftdecision/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://apurvakhatri.com/posts/makingrightleftdecision/</guid>
+      <description>Making decision to go right or left with Binary Search. This post will be discussing approaches to certain problems which strictly teaches binary search.
+I will not be presenting any solutions just discussing the approaches.
+Single Element in Sorted Array Description: You are given a sorted array consisting of only integers where every element appears exactly twice, except for one element which appears exactly once.
+Return the single element that appears only once.</description>
     </item>
     
     <item>
