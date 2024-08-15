@@ -6,8 +6,6 @@ ShowWordCount: false
 ShowReadingTime: false
 ---
 
-## About Me
-
 Hi, I'm Apurva Khatri (Ah-poor-vah Khuh-tree), currently pursuing a Master of Science in Computer Science at Northeastern University. With approximately three years of experience as a software developer, I specialize in designing and implementing robust solutions across various technologies and platforms.
 
 ### Professional Background
