@@ -8,6 +8,24 @@
     <loc>https://apurvakhatri.com/posts/</loc>
     <lastmod>2022-07-09T23:41:31+05:30</lastmod>
   </url><url>
+    <loc>https://apurvakhatri.com/leetcode/linkedlist/first-problem/</loc>
+  </url><url>
+    <loc>https://apurvakhatri.com/leetcode/dynamic-programming/fourth-problem/</loc>
+  </url><url>
+    <loc>https://apurvakhatri.com/leetcode/dynamic-programming/second-problem/</loc>
+  </url><url>
+    <loc>https://apurvakhatri.com/leetcode/arrays/1/</loc>
+  </url><url>
+    <loc>https://apurvakhatri.com/leetcode/dynamic-programming/third-problem/</loc>
+  </url><url>
+    <loc>https://apurvakhatri.com/leetcode/dynamic-programming/fifth-problem/</loc>
+  </url><url>
+    <loc>https://apurvakhatri.com/leetcode/arrays/2/</loc>
+  </url><url>
+    <loc>https://apurvakhatri.com/leetcode/dynamic-programming/first-problem/</loc>
+  </url><url>
+    <loc>https://apurvakhatri.com/leetcode/dynamic-programming/sixth-problem/</loc>
+  </url><url>
     <loc>https://apurvakhatri.com/about/</loc>
   </url><url>
     <loc>https://apurvakhatri.com/tags/amazon-bedrock/</loc>
@@ -18,9 +36,15 @@
   </url><url>
     <loc>https://apurvakhatri.com/tags/aws-lambda/</loc>
   </url><url>
+    <loc>https://apurvakhatri.com/dsa/revision/</loc>
+  </url><url>
     <loc>https://apurvakhatri.com/categories/</loc>
   </url><url>
+    <loc>https://apurvakhatri.com/dsa/</loc>
+  </url><url>
     <loc>https://apurvakhatri.com/tags/event-driven/</loc>
+  </url><url>
+    <loc>https://apurvakhatri.com/leetcode/</loc>
   </url><url>
     <loc>https://apurvakhatri.com/tags/llm/</loc>
   </url><url>
@@ -37,5 +61,7 @@
     <loc>https://apurvakhatri.com/projects/serverlessllmapplication/</loc>
   </url><url>
     <loc>https://apurvakhatri.com/tags/</loc>
+  </url><url>
+    <loc>https://apurvakhatri.com/dsa/questions/</loc>
   </url>
 </urlset>

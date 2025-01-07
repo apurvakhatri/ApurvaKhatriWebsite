@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DSAs on Apurva Khatri</title>
+    <link>https://apurvakhatri.com/dsa/</link>
+    <description>Recent content in DSAs on Apurva Khatri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://apurvakhatri.com/dsa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basics for Software Interview</title>
+      <link>https://apurvakhatri.com/dsa/revision/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://apurvakhatri.com/dsa/revision/</guid>
+      <description>Table of Contents Binary Search Algorithm to Find the Smallest Index of an Element Implementation QuickSort Implementation MergeSort Implementation HeapSort Implementation Binary Search Algorithm to Find the Smallest Index of an Element Binary search is a highly efficient algorithm used to find the position of a target value within a sorted array. The algorithm works by repeatedly dividing the search interval in half. If the value of the search key is less than the item in the middle of the interval, the algorithm narrows the interval to the lower half.</description>
+    </item>
+    
+    <item>
+      <title>Technical Interview Questions for Interviewee</title>
+      <link>https://apurvakhatri.com/dsa/questions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://apurvakhatri.com/dsa/questions/</guid>
+      <description>During coding rounds, it&amp;#39;s important to clarify certain aspects of the problem with well-thought-out questions.</description>
+    </item>
+    
+  </channel>
+</rss>
