@@ -4,9 +4,7 @@
     <title>Posts on Apurva Khatri</title>
     <link>https://apurvakhatri.com/posts/</link>
     <description>Recent content in Posts on Apurva Khatri</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 09 Jul 2022 23:41:31 +0530</lastBuildDate><atom:link href="https://apurvakhatri.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://apurvakhatri.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Making decision to go right or left with Binary Search.</title>
       <link>https://apurvakhatri.com/posts/makingrightleftdecision/</link>
