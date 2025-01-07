@@ -1,4 +1,3 @@
-#baseURL: "https://apurvakhatri.github.io/ApurvaKhatriWebsite"
 baseURL: "https://apurvakhatri.com/"
 title: Apurva Khatri
 pagerSize: 5
@@ -21,8 +20,6 @@ params:
   description: "Apurva Khatri's portfolio website"
   keywords: [Blog, Portfolio, PaperMod]
   author: Apurva Khatri
-  # author: ["Me", "You"] # multiple authors
-  #images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: light #auto # dark # light
   disableThemeToggle: false
@@ -42,16 +39,20 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
+
+  social:
+    twitter: "your_twitter_handle"
+    facebook_admin: "your_facebook_admin_id"
+    images:
+      - "https://apurvakhatri.com/images/sample.jpg" # Example image
+
   socialIcons:
       - name: github
         url: "https://github.com/apurvakhatri"
       - name: linkedin
         url: "https://www.linkedin.com/in/apurvakhatri/"
 
-
   assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
     favicon: "<link / abs url>"
     favicon16x16: "<link / abs url>"
     favicon32x32: "<link / abs url>"
@@ -60,31 +61,15 @@ params:
 
   label:
     text: "Apurva Khatri"
-    #icon: /apple-touch-icon.png
-    #iconHeight: 35
 
-  # profile-mode
   profileMode:
-    enabled: true # needs to be explicitly set
-    title: "Hi, I'm Apurva Khatri \U0001F44B"
+    enabled: true
+    title: "Hi, I'm Apurva Khatri 👋"
     subtitle: "Welcome to my Portfolio!"
     imageUrl: "/AKV2025_.png"
     imageWidth: 256
     imageHeight: 256
     imageTitle: Apurva Khatri
-    #buttons:
-     # - name: Posts
-     #   url: posts
-     # - name: Tags
-     #   url: tags
-
-
-  # home-info mode
-  #homeInfoParams:
-   # Title: "Hi, I'm Apurva Khatri \U0001F44B"
-    #Content: Welcome to my metaverse!
-
-
 
   analytics:
     google:
@@ -95,17 +80,10 @@ params:
       SiteVerificationTag: "XYZabc"
 
   cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
+    hidden: true
+    hiddenInList: true
+    hiddenInSingle: true
 
-  #editPost:
-  #  URL: "https://github.com/<path_to_repo>/content"
-  #  Text: "Suggest Changes" # edit text
-  #  appendFilePath: true # to append file path to Edit link
-
-  # for search
-  # https://fusejs.io/api/options.html
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
@@ -114,6 +92,7 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+
 menu:
   main:
     - identifier: About
@@ -141,20 +120,10 @@ menu:
       url: /DSA/
       weight: 40
 
-
-
-# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
   highlight:
     noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
   goldmark:
     renderer:
       unsafe: true
-
-
