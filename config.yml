@@ -68,9 +68,9 @@ params:
     enabled: true # needs to be explicitly set
     title: "Hi, I'm Apurva Khatri \U0001F44B"
     subtitle: "Welcome to my Portfolio!"
-    imageUrl: "/AKV21.png"
-    imageWidth: 200
-    imageHeight: 240
+    imageUrl: "/AKV2025_.png"
+    imageWidth: 256
+    imageHeight: 256
     imageTitle: Apurva Khatri
     #buttons:
      # - name: Posts
@@ -132,6 +132,16 @@ menu:
       name: Resume
       url: /resume/
       weight: 40
+    - identifier: Problem Solving
+      name: leetcode
+      url: /Leetcode/
+      weight: 40
+    - identifier: Fundamentals
+      name: DSA
+      url: /DSA/
+      weight: 40
+
+
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
