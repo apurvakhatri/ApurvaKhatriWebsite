@@ -48,6 +48,18 @@ title: "Basics for Software Interview"
       <a href="#implementation-3" style="text-decoration:none; color:#4285f4;">Implementation</a>
     </li>
   </ul>
+
+  <li style="margin-bottom: 0px;">
+    <a href="#merge-overlapping-intervals" style="text-decoration:none; color:#1a73e8;">
+      <strong>Merge Overlapping Intervals</strong>
+    </a>
+  </li>
+  <ul style="margin: 0 0 0px 10px; padding: 0;">
+    <li style="margin-bottom: 0px;">
+      <a href="#implementation-4" style="text-decoration:none; color:#4285f4;">Implementation</a>
+    </li>
+  </ul>
+
 </ol>
 
 </details>
@@ -220,3 +232,62 @@ void HeapSort(vector<int>& A, int low, int high){
 HeapSort(A, 0, A.size() - 1);
 ```
 
+
+
+# Merge Overlapping Intervals
+
+This approach merges overlapping intervals **in-place**, ensuring that the output contains only mutually exclusive intervals. As intervals are merged, they are kept at the start of the original array. By the end of the process, the new size of the array represents the number of mutually exclusive intervals.
+
+## Approach
+
+**Input**: A list of intervals `[startTime, endTime]`.
+
+### Steps
+1. **Sort** the intervals by their start times.
+2. Initialize `newIntervalSize` to 0. This will keep track of the size of the resultant array of merged intervals.
+3. Use a `currentInterval` to hold the interval currently being merged.
+4. Iterate through the sorted intervals:
+   - If the current interval does not overlap with the `currentInterval`, save the `currentInterval` to the result, and update `currentInterval` to the current interval.
+   - Otherwise, merge the intervals by updating the end time of `currentInterval` to the maximum of the two overlapping intervals.
+5. After the loop, add the last `currentInterval` to the result.
+6. Resize the array to `newIntervalSize` to discard any remaining elements.
+
+---
+
+## Implementation
+
+```cpp
+#include <vector>
+#include <algorithm>
+
+void mergeIntervals(std::vector<std::vector<int>>& intervals) {
+    // Step 1: Sort intervals by start time
+    std::sort(intervals.begin(), intervals.end());
+
+    // Step 2: Initialize variables
+    int newIntervalSize = 0;
+    std::vector<int> currentInterval = intervals[0];
+
+    // Step 3: Loop through intervals to merge
+    for (int i = 1; i < intervals.size(); ++i) {
+        if (intervals[i][0] > currentInterval[1]) {
+            // No overlap: Save the current interval and update it
+            intervals[newIntervalSize] = currentInterval;
+            newIntervalSize++;
+            currentInterval = intervals[i];
+        } else {
+            // Overlap: Merge intervals by extending the end time
+            currentInterval[1] = std::max(currentInterval[1], intervals[i][1]);
+        }
+    }
+
+    // Step 4: Save the last interval
+    intervals[newIntervalSize] = currentInterval;
+    newIntervalSize++;
+
+    // Step 5: Resize the intervals array to only include merged intervals
+    intervals.resize(newIntervalSize);
+}
+
+
+```
