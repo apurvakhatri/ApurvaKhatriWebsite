@@ -1,4 +1,3 @@
-
 ---
 title: "About Me"
 draft: false
@@ -6,33 +5,37 @@ ShowWordCount: false
 ShowReadingTime: false
 ---
 
-Hi, I'm Apurva Khatri (Ah-poor-vah Khuh-tree), currently pursuing a Master of Science in Computer Science at Northeastern University. With approximately three years of experience as a software developer, I specialize in designing and implementing robust solutions across various technologies and platforms.
+## About Me
 
-### Professional Background
-I have 2.8 years of experience as a Software Developer at ICICI Lombard, a leading general insurance company in India. During my time there, I played a pivotal role in:
-- Designing and implementing CI/CD pipelines using Jenkins, Docker, Bitbucket, and AWS ECS.
-- Architecting centralized logging using the ELK stack to enhance infrastructure monitoring.
-- Building REST APIs in C# for .NET applications.
+Hi, I’m **Apurva Khatri** (pronounced *Ah-poor-vah Khuh-tree*), a software developer with a Master of Science in Computer Science from **Northeastern University**. With nearly three years of industry experience, I specialize in building scalable, reliable software systems and thrive at the intersection of backend engineering, DevOps, and cloud-native development.
 
-### Education
-I hold a Master of Science in Computer Science from Northeastern University, where I have honed my skills in various programming languages and technologies.
+### 🧑‍💻 Professional Experience
 
-### Skills and Expertise
-- **Languages & Databases:** C/C++, C#, Java, JavaScript, TypeScript, Python, Scala, MySQL, MongoDB
-- **Technologies:** MapReduce, .NET, RESTful APIs, Git, Linux, React, Django, Android Studio
-- **DevOps & CI/CD:** Docker, Jenkins, JFrog, Elasticsearch, Logstash, Kibana, AWS (ECS, S3, Bedrock)
+I've worked across industry and academia in full-stack and backend roles. At QuantUniversity, I developed a research assistant platform for educational content creation—leveraging React, FastAPI, MongoDB, and OpenAI APIs. As a Software Developer Intern at Bayer, I built a Python CI package used by multiple engineering teams and implemented a TPM-based credential store aligned with FDA compliance. Earlier at ICICI Lombard, I led efforts to migrate microservices to AWS, cutting deployment time by 90%, and built ELK-based centralized logging systems processing up to 6 GB of logs daily.
 
-### Achievements
-Throughout my MS program, I've worked on several notable projects:
-- Developed a stock trading application in MVC architecture in Java, implementing design patterns like Command design, facade, and builder. Conducted unit testing and isolated testing of the controller.
-- Created a full-stack learning management portal to enhance course management and learning experiences, utilizing ReactJS, React Native, JavaScript, TypeScript, Hooks, NodeJS, and MongoDB.
-- Leveraged Amazon Bedrock to build an event-driven pipeline using AWS Lambda to process audio recordings of customer interactions, gaining experience in LLMs, GenAI, Serverless, and event-driven architecture.
+### 🎓 Education
 
-### Personal Interests
-Outside of work, I enjoy running and cooking. I'm passionate about sports, politics, psychology, and food, which keep me engaged and curious about the world around me.
+I hold a **Master of Science in Computer Science** from Northeastern University, where I focused on systems design, software engineering, and cloud technologies. I earned my **B.Tech in Computer Science & Engineering** from Vellore Institute of Technology in India.
 
-### Future Goals
-- **Career Aspirations:** I aim to write a lot of code, work under great leadership, and contribute to building scalable and high-usage products, preferably in a hybrid working model.
-- **Personal Goals:** One of my personal milestones is to run a half marathon at the Boston Marathon in 2025.
+### 🛠️ Technical Skills
 
-Thank you for visiting my website! Feel free to connect with me on apurvakhatri2011@gmail.com for any inquiries or collaborations.
+- **Languages & Databases:** C/C++, C#, Java, JavaScript, TypeScript, Python, Scala, MySQL, MongoDB  
+- **Frameworks & Tools:** .NET, REST APIs, Git, Linux, React, Django, Android Studio  
+- **Cloud & DevOps:** Docker, Jenkins, JFrog, ELK Stack, AWS (ECS, S3, Bedrock), CI/CD pipelines  
+
+### 🚀 Projects & Highlights
+
+- **Stock Trading Platform:** Developed in Java using MVC architecture and design patterns (Command, Facade, Builder), with comprehensive unit and controller-level testing.
+- **Learning Management Portal:** A full-stack app built with ReactJS, React Native, Node.js, and MongoDB to streamline course management and enhance user experience.
+- **Voice Interaction Pipeline with AWS Bedrock:** Built an event-driven, serverless architecture using AWS Lambda and Bedrock to analyze customer audio recordings, gaining hands-on experience with **LLMs**, **GenAI**, and **event-driven systems**.
+
+### 🧠 Beyond the Code
+
+Outside of tech, I’m a curious and active person. I love **running**, **cooking**, and exploring topics like **sports**, **politics**, **psychology**, and—of course—**great food**.
+
+### 🎯 Looking Ahead
+
+- **Professionally**, I aspire to contribute to impactful, high-scale products, collaborate under strong technical leadership, and continue growing in full-stack and cloud development—ideally in a **hybrid work environment**.
+- **Personally**, I’m training to run a **half marathon at the Boston Marathon in 2025**, a goal that keeps me motivated and grounded.
+
+Thanks for stopping by! If you’d like to connect or collaborate, feel free to reach out at **apurvakhatri2011@gmail.com**.
